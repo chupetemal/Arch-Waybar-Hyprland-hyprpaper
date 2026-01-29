@@ -10,7 +10,8 @@
         "persistent-workspaces": {}
     },
     "clock": {
-        "format": "{:%H:%M}"
+        "format": "{:%H:%M}",
+        "on-click":"{XX:XX:XX}"
     },
     
     "network": {
